@@ -15,6 +15,7 @@
         android:id="@+id/happy_birthday"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:textSize="30sp"
         android:text="Happy Birthday Dhimas"
         />
 
@@ -23,6 +24,7 @@
         android:layout_height="wrap_content"
         android:layout_alignParentRight="true"
         android:layout_alignParentBottom="true"
+        android:textSize="30sp"
         android:text="From, Ganteng"/>
 
 </RelativeLayout>
