@@ -19,6 +19,7 @@
         android:textSize="30sp"
         android:fontFamily="sans-serif-light"
         android:textColor="@android:color/white"
+        android:padding="20dp"
         android:text="Happy Birthday Dhimas"
         />
 
@@ -30,6 +31,7 @@
         android:textSize="30sp"
         android:fontFamily="sans-serif-light"
         android:textColor="@android:color/white"
+        android:padding="20dp"
         android:text="From, Ganteng"/>
 
 </RelativeLayout>
