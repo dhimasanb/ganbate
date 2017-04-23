@@ -27,7 +27,7 @@ submitting a pull request through GitHub. Please see CONTRIBUTING.md for more de
 
 Image
 -----
-[Android Pary.jpg](https://discourse-cdn.global.ssl.fastly.net/udacity/uploads/default/original/3X/1/2/1277985cc392d405031be59b67fbf0892cd8bc19.jpg)
+[Android Party.jpg](https://discourse-cdn.global.ssl.fastly.net/udacity/uploads/default/original/3X/1/2/1277985cc392d405031be59b67fbf0892cd8bc19.jpg)
 
 
 The image in the app's drawable folder is licensed under Creative Commons Attribution 3.0
