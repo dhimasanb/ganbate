@@ -16,6 +16,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="30sp"
+        android:fontFamily="sans-serif-light"
         android:text="Happy Birthday Dhimas"
         />
 
@@ -25,6 +26,7 @@
         android:layout_alignParentRight="true"
         android:layout_alignParentBottom="true"
         android:textSize="30sp"
+        android:fontFamily="sans-serif-light"
         android:text="From, Ganteng"/>
 
 </RelativeLayout>
